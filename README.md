@@ -1,6 +1,6 @@
 # 🛡️ GoAnon
 
-A layered **privacy bootstrap** for Linux hosts with a **Virtual Machine Setup**.
+A layered **privacy bootstrap & boilerplate** for Linux hosts with a **Virtual Machine Setup**.
 
 This script automates:
 
